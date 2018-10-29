@@ -79,7 +79,7 @@
         "colorVariations" : [{
             "techName": "gold",
             "displayName": "Gold",
-            "color": "gold",
+            "color": "e29a9d",
             "claraId": "f27cc413-b223-4b66-bb1c-be4c19c3e0ce"
         }, {
             "techName": "black",
@@ -89,12 +89,12 @@
         }, {
             "techName": "blue",
             "displayName": "Blue",
-            "color": "blue",
+            "color": "188aae",
             "claraId": "306c1127-5c38-4155-ad49-3fc2ecee4f2f"    
         }, {
             "techName": "silver",
             "displayName": "Silver",
-            "color": "silver",
+            "color": "a2a5aa",
             "claraId": "965c36da-4ac5-4ce7-92b7-c1ff89ace578"  
         }, {
             "techName": "white",
@@ -104,7 +104,7 @@
         }, {
             "techName": "pink",
             "displayName": "Pink",
-            "color": "pink",
+            "color": "e29a9d",
             "claraId": "d255ee93-39b6-44a1-824b-93c78162a46a"  
         }],
         "unlisted": true
