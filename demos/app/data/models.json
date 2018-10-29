@@ -79,7 +79,7 @@
         "colorVariations" : [{
             "techName": "gold",
             "displayName": "Gold",
-            "color": "#e29a9d",
+            "color": "#af9151",
             "claraId": "f27cc413-b223-4b66-bb1c-be4c19c3e0ce"
         }, {
             "techName": "black",
