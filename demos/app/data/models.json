@@ -107,6 +107,13 @@
             "claraId": "d255ee93-39b6-44a1-824b-93c78162a46a"  
         }],
         "unlisted": true
+    },
+        "baby-einstein": {
+        "name": "Baby Einstein Piano",
+        "claraId": "4fab592c-2545-4546-9acc-4bddbf1142d0",
+        "thumbnail": "assets/images/Baby_Einstein_Thumbnail.jpg",
+        "usdz": "assets/apple-models/Baby Einstein_o1.usdz"
+        "unlisted": true
     }
 
 }
