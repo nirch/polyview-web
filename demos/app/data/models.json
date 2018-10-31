@@ -79,7 +79,8 @@
             "techName": "gold",
             "displayName": "Gold",
             "color": "#af9151",
-            "claraId": "f27cc413-b223-4b66-bb1c-be4c19c3e0ce"
+            "claraId": "f27cc413-b223-4b66-bb1c-be4c19c3e0ce",
+     "usdz": "assets/apple-models/DeerHead_Gold_01.usdz"
         }, {
             "techName": "black",
             "displayName": "Black",
