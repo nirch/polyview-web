@@ -70,8 +70,7 @@
     "bethesda_house": {
         "name": "5522 Mckinley St, Bethesda, MD 20817",
         "claraId": "f5f200ab-d8b8-4161-9ffa-3c0db9530c8d",        
-        "thumbnail": "assets/images/Bethesda_house_Thumbanil.jpg",
-        "unlisted": true
+        "thumbnail": "assets/images/Bethesda_house_Thumbanil.jpg"
     },
     "popuplighting-deer_head": {
         "name": "Deer Head",
@@ -90,12 +89,12 @@
         }, {
             "techName": "blue",
             "displayName": "Blue",
-            "color": "blue",
+            "color": "#188aae",
             "claraId": "306c1127-5c38-4155-ad49-3fc2ecee4f2f"    
         }, {
             "techName": "silver",
             "displayName": "Silver",
-            "color": "silver",
+            "color": "#a2a5aa",
             "claraId": "965c36da-4ac5-4ce7-92b7-c1ff89ace578"  
         }, {
             "techName": "white",
@@ -105,9 +104,16 @@
         }, {
             "techName": "pink",
             "displayName": "Pink",
-            "color": "pink",
+            "color": "#e29a9d",
             "claraId": "d255ee93-39b6-44a1-824b-93c78162a46a"  
         }],
+        "unlisted": true
+    },
+        "baby-einstein": {
+        "name": "Baby Einstein Piano",
+        "claraId": "4fab592c-2545-4546-9acc-4bddbf1142d0",
+        "thumbnail": "assets/images/Baby_Einstein_Thumbnail.jpg",
+        "usdz": "assets/apple-models/Baby Einstein_o1.usdz",
         "unlisted": true
     }
 
