@@ -115,6 +115,13 @@
         "thumbnail": "assets/images/Baby_Einstein_Thumbnail.jpg",
         "usdz": "assets/apple-models/Baby Einstein_o1.usdz",
         "unlisted": true
+    },
+        "floor_plan": {
+        "name": "Floor Plan_01",
+        "claraId": "16bbc76a-6b9b-4a13-a2cc-98f2f287eb2b",
+        "thumbnail": "assets/images/Floor_Plan_Thumbnail.jpg",
+        "usdz": "assets/apple-models/Floor_Plan_01.usdz",
+        "unlisted": true
     }
 
 }
