@@ -32,4 +32,11 @@ app.controller('navCtrl', function($scope, $location, modelService) {
             }
         }
     }
-})
+});
+
+app.controller('footerCtrl', function($scope, $location, modelService) {
+
+    $scope.isOlin = function() {
+        return $location.path().includes("floor_plan") ? true : false;
+    }
+});

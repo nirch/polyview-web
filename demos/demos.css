@@ -97,6 +97,9 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
     outline:0;
 }
 
+.olin {
+    width: 50px;
+}
 
 @media (max-width: 768px) {
     .viewer-container {
