@@ -39,4 +39,12 @@ app.controller('footerCtrl', function($scope, $location, modelService) {
     $scope.isOlin = function() {
         return $location.path().includes("floor_plan") ? true : false;
     }
+
+    $scope.getCopyright = function() {
+        return $scope.isOlin() ? "OLIN" : "Polyview";
+    }
+
+    $scope.getHref = function() {
+        return $scope.isOlin() ? "https://olin.co.il/" : "https://www.facebook.com/Polyview3d/";
+    }
 });
