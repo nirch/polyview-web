@@ -126,7 +126,7 @@
         "floor_plan_02": {
         "name": "Floor Plan_02",
         "claraId": "70ef911d-b622-46ee-9e86-6a4286fdd0bd",
-        "thumbnail": "assets/images/Floor_Plan_Thumbnail.jpg",
+        "thumbnail": "assets/images/Floor_Plan_02_Thumbnail.jpg",
         "usdz": "assets/apple-models/Floor_Plan_02.usdz",
         "unlisted": true
     },
