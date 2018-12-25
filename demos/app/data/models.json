@@ -123,6 +123,13 @@
         "usdz": "assets/apple-models/Floor_Plan_01.usdz",
         "unlisted": true
     },
+        "floor_plan_02": {
+        "name": "Floor Plan_02",
+        "claraId": "70ef911d-b622-46ee-9e86-6a4286fdd0bd",
+        "thumbnail": "assets/images/Floor_Plan_Thumbnail.jpg",
+        "usdz": "assets/apple-models/Floor_Plan_02.usdz",
+        "unlisted": true
+    },
             "test-roi": {
         "name": "Test",
         "claraId": "16bbc76a-6b9b-4a13-a2cc-98f2f287eb2b",
