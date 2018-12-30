@@ -130,6 +130,13 @@
         "usdz": "assets/apple-models/Floor_Plan_02.usdz",
         "unlisted": true
     },
+            "grouper_isaschar_ground_west": {
+        "name": "יששכר קרקע מערבית",
+        "claraId": "d5720303-8812-4784-ad99-8ea1432b0257",
+        "thumbnail": "assets/images/Grouper_Isaschar_Ground_West_Thumbnail.jpg",
+        "usdz": "assets/apple-models/Grouper_Isaschar_Ground_West_01.usdz",
+        "unlisted": true
+    },
             "test-roi": {
         "name": "Test",
         "claraId": "16bbc76a-6b9b-4a13-a2cc-98f2f287eb2b",
