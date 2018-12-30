@@ -97,9 +97,14 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
     outline:0;
 }
 
-.olin {
+.olin-logo {
     width: 50px;
 }
+
+.gruper-logo {
+    width: 120px;
+}
+
 
 @media (max-width: 768px) {
     .viewer-container {

@@ -36,15 +36,48 @@ app.controller('navCtrl', function($scope, $location, modelService) {
 
 app.controller('footerCtrl', function($scope, $location, modelService) {
 
-    $scope.isOlin = function() {
+    $scope.isNotPolyview = function() {
+        return isOlin() || isGruper(); 
+    }
+
+    function isOlin() {
         return $location.path().includes("floor_plan") ? true : false;
     }
 
+    function isGruper() {
+        return $location.path().includes("grouper") ? true : false;
+    }
+
     $scope.getCopyright = function() {
-        return $scope.isOlin() ? "OLIN" : "Polyview";
+        if (isOlin()) 
+            return "OLIN";
+        else if (isGruper()) 
+            return "Gruper";
+        else 
+            return "Polyview";
+    }
+
+    $scope.getLogoSrc = function() {
+        if (isOlin()) 
+            return "assets/OLIN.jpg";
+        else if (isGruper()) 
+            return "assets/Grouper_logo.jpg";
+        else return "";
     }
 
     $scope.getHref = function() {
-        return $scope.isOlin() ? "https://olin.co.il/" : "https://www.facebook.com/Polyview3d/";
+        if (isOlin()) 
+            return "https://olin.co.il/";
+        else if (isGruper()) 
+            return "https://www.gruper-ltd.com/";
+        else 
+            return "https://www.facebook.com/Polyview3d/";
+    }
+
+    $scope.getLogoClass = function() {
+        if (isOlin())
+            return "olin-logo";
+        else 
+            return "gruper-logo";
     }
 });
