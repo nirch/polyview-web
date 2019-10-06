@@ -143,6 +143,13 @@
         "thumbnail": "assets/images/Floor_Plan_Thumbnail.jpg",
         "usdz": "assets/apple-models/test.usdz",
         "unlisted": true
+    },
+                "uttermost_demo": {
+        "name": "Uttermost Demo",
+        "claraId": "e58baf4c-8020-4211-82ab-a26228c93095",
+        "thumbnail": "assets/images/Uttermost_Roosvelt_Chair_Thumbnail.jpg",
+        "usdz": "assets/apple-models/Roosevelt_Club_Chair_01.usdz",
+        "unlisted": true
     }
 
 }
