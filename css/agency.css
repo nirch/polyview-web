@@ -570,22 +570,18 @@ ul.social-buttons {
 #features {
   background-color: #e9eaea; }
 
-#example {
-  background-color: #07135f; }
-  #example h2.section-heading {
-    color: white; }
-  #example .viewer-container {
-    padding-top: 50%;
-    position: relative;
-    margin: 0 20px; }
-    #example .viewer-container .viewer-iframe {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      border: none; }
-  #example .view-more {
-    color: white; }
+#example .viewer-container {
+  padding-top: 50%;
+  position: relative;
+  margin: 0 20px; }
+  #example .viewer-container .viewer-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none; }
+#example .view-more {
+  color: black; }
 
 /*# sourceMappingURL=agency.css.map */
